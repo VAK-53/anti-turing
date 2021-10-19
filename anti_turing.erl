@@ -1,3 +1,5 @@
+% Программа моделирования на Erlang решения квадратного уравнения в потоке данных
+
 -module(anti_turing).
 -export([start_a/0, start_b/0, start_c/0, get_x1/0, get_x2/0]).
 -vsn(1.0).
